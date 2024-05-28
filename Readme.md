@@ -11,5 +11,8 @@ Keys and interrupts
 </details>
 
 <details><summary><b>Settings in main.h</b></summary>
-
+<div>select job number</div>
+<div>#define TASK1 1</div>
+<div>//#define TASK2 2</div>
+<div>//#define TASK3 3</div>
 </details>
